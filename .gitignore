@@ -34,3 +34,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### Local app data ###
+task-management-cli/tasks.json
