@@ -8,6 +8,7 @@
         <module>number-guessing-game</module>
         <module>design-patterns</module>
         <module>task-management-cli</module>
+        <module>weather-api</module>
     </modules>
 
     <groupId>com.rohitksdev</groupId>
